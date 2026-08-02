@@ -1,0 +1,9 @@
+Subgroup,Treatment,n_DEGs_full,pct_retained_mean,n_LOO_fits
+Female_Healthy,BIM+BAK,1388,73.11239193083574,5
+Female_Healthy,BIM-PF,15,49.33333333333333,5
+Female_Mutant,BIM+BAK,112,69.64285714285714,5
+Female_Mutant,BIM-PF,12,38.33333333333333,5
+Male_Healthy,BIM+BAK,206,68.64077669902912,5
+Male_Healthy,BIM-PF,143,63.07692307692307,5
+Male_Mutant,BIM+BAK,14,60.0,5
+Male_Mutant,BIM-PF,1,40.0,5

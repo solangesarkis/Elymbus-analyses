@@ -1,0 +1,232 @@
+Term;NES_BIMplusBAK;FDR_BIMplusBAK;NES_BIMminusPF;FDR_BIMminusPF
+CENP-A containing chromatin organization (GO:0061641);-2.230433607877063;0.0001241369700877;;
+CENP-A containing nucleosome assembly (GO:0034080);-2.230433607877063;0.0001241369700877;;
+DNA replication (GO:0006260);;;-2.1253340359472714;0.0178005411731292
+DNA replication initiation (GO:0006270);;;-1.976738300403895;0.0286840242273523
+DNA replication-independent nucleosome assembly (GO:0006336);-1.9991193265646237;0.0057475417150633;;
+DNA strand elongation (GO:0022616);;;-1.9281470618297265;0.0374051912489405
+DNA strand elongation involved in DNA replication (GO:0006271);;;-1.931225990639924;0.036775423604208
+DNA-dependent DNA replication (GO:0006261);-1.9954096979121607;0.0059652695918128;;
+G1/S transition of mitotic cell cycle (GO:0000082);;;-2.14039306929301;0.0178005411731292
+G2/M transition of mitotic cell cycle (GO:0000086);-1.8485540203588977;0.0334147514777412;;
+NADH dehydrogenase complex assembly (GO:0010257);-2.036197318844269;0.0033864565439941;;
+NIK/NF-kappaB signaling (GO:0038061);-1.9177540563440885;0.0160087036625178;;
+RNA export from nucleus (GO:0006405);-1.8938646667597132;0.0211512274688845;;
+RNA splicing (GO:0008380);-1.90468293293904;0.0189512818691838;;
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377);-2.207514401313638;0.0001285182749143;;
+SRP-dependent cotranslational protein targeting to membrane (GO:0006614);-2.8979252408257192;0.0;;
+actin-myosin filament sliding (GO:0033275);-1.9018478219924424;0.0193470734644148;;
+aerobic electron transport chain (GO:0019646);-2.3049958599537024;3.6413511225743614e-05;;
+aerobic respiration (GO:0009060);-1.8902498960288727;0.0214384547341565;;
+anaphase-promoting complex-dependent catabolic process (GO:0031145);-2.380689880819788;0.0;;
+antigen processing and presentation of endogenous peptide antigen (GO:0002483);2.1774184094009947;0.0173485537413946;;
+antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590);-2.1352745244076337;0.0006827533354826;;
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479);-2.2250737282342725;0.0001187397105187;;
+atrioventricular valve development (GO:0003171);;;-1.896028441069881;0.0483710357965468
+attachment of mitotic spindle microtubules to kinetochore (GO:0051315);-1.9666277770196745;0.0089600480282069;;
+bone morphogenesis (GO:0060349);;;-1.957987101908012;0.029846597053221
+branching morphogenesis of an epithelial tube (GO:0048754);-1.849800147796292;0.0333998855578817;;
+carbohydrate biosynthetic process (GO:0016051);;;-1.9372796244792057;0.0355683607632196
+carboxylic acid transport (GO:0046942);;;-1.900098421314095;0.049106725503778
+cell cycle G2/M phase transition (GO:0044839);-1.8800847227495217;0.0237270439146945;;
+cellular macromolecule biosynthetic process (GO:0034645);-2.2977013229616503;3.413766677413463e-05;;
+cellular protein metabolic process (GO:0044267);-2.25016192470881;5.462026683861542e-05;;
+cellular response to chemokine (GO:1990869);;;-2.0470133602264946;0.0183062383655477
+cellular response to cytokine stimulus (GO:0071345);;;-1.957372441776161;0.0280645628979578
+cellular response to dsRNA (GO:0071359);-1.8557756001985704;0.0315032892889183;;
+cellular response to molecule of bacterial origin (GO:0071219);-1.8291342172792495;0.0389406089048102;;
+centromere complex assembly (GO:0034508);-2.228569879035429;0.0001213783707524;;
+chemokine-mediated signaling pathway (GO:0070098);;;-2.05214122672533;0.0207672980353174
+chondroitin sulfate catabolic process (GO:0030207);2.199695540900054;0.014571590750087;;
+chromatin remodeling at centromere (GO:0031055);-2.215855658773998;0.0001137922225804;;
+chromosome condensation (GO:0030261);-2.1031772927218078;0.0013173123178724;;
+cilium organization (GO:0044782);;;2.113723160700788;0.0450743079233494
+cotranslational protein targeting to membrane (GO:0006613);-2.844121552354452;0.0;;
+cytoplasmic translation (GO:0002181);-2.853793076125621;0.0;;
+detection of light stimulus involved in sensory perception (GO:0050962);2.4429129547998207;0.0;;
+detection of light stimulus involved in visual perception (GO:0050908);2.4429129547998207;0.0;;
+detection of visible light (GO:0009584);2.6978209207216;0.0;;
+endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000479);-1.8424654908796836;0.0347031019308442;;
+epidermal cell differentiation (GO:0009913);-2.150029297784948;0.000519340242072;;
+epidermis development (GO:0008544);-2.034116311974985;0.0034370802059421;;
+establishment of mitotic spindle localization (GO:0040001);-1.8703642504619733;0.026737921100046;;
+establishment of protein localization to mitochondrion (GO:0072655);-1.8490529579737047;0.0334437870879996;;
+establishment of skin barrier (GO:0061436);-1.8904344667730784;0.0214900915410417;;
+fibrinolysis (GO:0042730);-1.9992998378294;0.0058010490297563;-1.957744318152111;0.028925879406335
+gene expression (GO:0010467);-2.3499900627101216;0.0;;
+granulocyte chemotaxis (GO:0071621);;;-1.9918002331656024;0.0273449102889847
+histone exchange (GO:0043486);-2.0023538080879644;0.0054874314591353;;
+interleukin-1-mediated signaling pathway (GO:0070498);-1.8145991146746607;0.0436415932040537;;
+intraciliary retrograde transport (GO:0035721);;;2.226005297331563;0.0134040215981972
+intraciliary transport involved in cilium assembly (GO:0035735);;;2.438185599219964;0.0011827077880762
+keratinocyte differentiation (GO:0030216);-2.102447982311371;0.0013140527964072;;
+kinetochore assembly (GO:0051382);-1.8595142793067936;0.0300707856657245;;
+kinetochore organization (GO:0051383);-2.0087280380170536;0.005037916376644;;
+lymphocyte migration (GO:0072676);;;-2.055839824605416;0.0215553428268362
+mRNA export from nucleus (GO:0006406);-1.8830878826902977;0.0232602404634689;;
+mRNA processing (GO:0006397);-2.080436460979344;0.001775158672255;;
+mRNA splicing, via spliceosome (GO:0000398);-2.182677911985265;0.0002225270130462;;
+mRNA transport (GO:0051028);-1.8008722139236406;0.0495158728542924;;
+mRNA-containing ribonucleoprotein complex export from nucleus (GO:0071427);-1.830939108908758;0.0384703825355221;;
+maturation of LSU-rRNA (GO:0000470);-2.0739323866068613;0.0018498063702677;;
+maturation of SSU-rRNA (GO:0030490);-1.9388313892898517;0.0126697599353102;;
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000462);-2.145454558456307;0.0005638221093018;;
+microtubule cytoskeleton organization involved in mitosis (GO:1902850);-2.6738156938998072;0.0;;
+microtubule depolymerization (GO:0007019);-1.8076928120020133;0.046417295855216;;
+mitochondrial ATP synthesis coupled electron transport (GO:0042775);-2.3122715040379425;0.0;;
+mitochondrial electron transport, NADH to ubiquinone (GO:0006120);-2.309217284030398;0.0;;
+mitochondrial respiratory chain complex I assembly (GO:0032981);-2.036197318844269;0.0033864565439941;;
+mitochondrial respiratory chain complex assembly (GO:0033108);-2.094870980626244;0.0014462831219239;;
+mitochondrial translation (GO:0032543);-2.3878493401254266;0.0;;
+mitochondrial translational elongation (GO:0070125);-2.493399760229523;0.0;;
+mitochondrial translational termination (GO:0070126);-2.4640152205326564;0.0;;
+mitotic cell cycle phase transition (GO:0044772);-1.907360764256584;0.018462634340404;;
+mitotic chromosome condensation (GO:0007076);-2.042518721626026;0.0030531328643123;;
+mitotic metaphase plate congression (GO:0007080);-2.301170380312481;3.523888183136478e-05;;
+mitotic nuclear division (GO:0140014);-2.26079119158344;6.068918537623935e-05;;
+mitotic nuclear membrane organization (GO:0101024);-2.211453930257665;0.0001092405336772;;
+mitotic nuclear membrane reassembly (GO:0007084);-2.211453930257665;0.0001092405336772;;
+mitotic sister chromatid segregation (GO:0000070);-2.450788638255188;0.0;;
+mitotic spindle assembly checkpoint signaling (GO:0007094);-2.129033945076772;0.0007663141914671;;
+mitotic spindle checkpoint signaling (GO:0071174);-2.129033945076772;0.0007663141914671;;
+mitotic spindle organization (GO:0007052);-2.6230715654329373;0.0;;
+monocyte chemotaxis (GO:0002548);;;-1.98996399425721;0.027090198597856
+muscle filament sliding (GO:0030049);-1.9018478219924424;0.0193470734644148;;
+ncRNA export from nucleus (GO:0097064);-1.806144317352175;0.04698001023625;;
+ncRNA processing (GO:0034470);-2.5923036814876355;0.0;;
+negative regulation of G2/M transition of mitotic cell cycle (GO:0010972);-2.182011825909334;0.0002184810673544;;
+negative regulation of amyloid precursor protein catabolic process (GO:1902992);-1.815978587178945;0.0434334830734407;;
+negative regulation of anoikis (GO:2000811);;;-1.9977674456472816;0.0273552434204706
+negative regulation of blood coagulation (GO:0030195);-1.8507011137549825;0.0332814016887322;;
+negative regulation of cell communication (GO:0010648);;;-2.0052993237836514;0.0272199942105768
+negative regulation of cell cycle G2/M phase transition (GO:1902750);-2.265570200751802;3.1211581050637384e-05;;
+negative regulation of fibrinolysis (GO:0051918);-1.8122762393737049;0.0447343377971417;;
+negative regulation of mitotic cell cycle phase transition (GO:1901991);-2.1554886819437096;0.0004369621347089;;
+negative regulation of mitotic metaphase/anaphase transition (GO:0045841);-2.1762793053793774;0.0002299800708994;;
+negative regulation of proteolysis involved in cellular protein catabolic process (GO:1903051);-1.8115371538176157;0.0448290782645821;;
+negative regulation of response to external stimulus (GO:0032102);-1.9319072211749448;0.0136082493380779;;
+negative regulation of signaling (GO:0023057);;;-2.080794759818517;0.014939739913162
+negative regulation of sodium ion transmembrane transport (GO:1902306);;;-1.9837780986965343;0.0282901457930089
+negative regulation of sodium ion transmembrane transporter activity (GO:2000650);;;-2.0477826719817847;0.0199143554374383
+negative regulation of vascular endothelial growth factor receptor signaling pathway (GO:0030948);-1.926505807765952;0.0145001349890437;;
+neutrophil chemotaxis (GO:0030593);;;-1.9740500547079425;0.0270123212302236
+neutrophil migration (GO:1990266);;;-1.9979533719311813;0.028925879406335
+non-motile cilium assembly (GO:1905515);;;2.228784758711063;0.0173463808917846
+nuclear membrane reassembly (GO:0031468);-2.1433214646642718;0.0006068918537623;;
+nuclear pore organization (GO:0006999);-1.817548131047119;0.0434424935217065;;
+nuclear-transcribed mRNA catabolic process (GO:0000956);-2.4077280507701087;0.0;;
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184);-2.6494476076265747;0.0;;
+nucleic acid metabolic process (GO:0090304);-1.8036491043216685;0.0481443310098454;;
+oligosaccharide biosynthetic process (GO:0009312);;;-1.976506477816628;0.0274888565512126
+peptide biosynthetic process (GO:0043043);-2.66843366329092;0.0;;
+peptidyl-proline modification (GO:0018208);-2.0459459378710063;0.0029225389529233;;
+peroxisome organization (GO:0007031);2.1578243620040074;0.0210876663951624;2.1721787409401547;0.0249157107354724
+phototransduction, visible light (GO:0007603);2.5209254009825344;0.0;;
+positive regulation by host of viral process (GO:0044794);-1.8804423840989797;0.0238214841180025;;
+positive regulation of DNA biosynthetic process (GO:2000573);;;-1.9082431012592544;0.0456681566987447
+positive regulation of G2/M transition of mitotic cell cycle (GO:0010971);;;-1.8930741798413249;0.048117087858615
+positive regulation of apoptotic signaling pathway (GO:2001235);;;-1.960198503814436;0.0299192131771569
+positive regulation of cell cycle G2/M phase transition (GO:1902751);-1.8173108246270928;0.0433110705636969;-1.9975282767420728;0.0258973151095179
+positive regulation of defense response (GO:0031349);;;-1.940800217755336;0.034657114253744
+positive regulation of establishment of protein localization to telomere (GO:1904851);-1.9791356490607572;0.0076832508686319;;
+positive regulation of inflammatory response (GO:0050729);;;-1.980296587942972;0.0286224610908839
+positive regulation of intrinsic apoptotic signaling pathway (GO:2001244);;;-1.9249274574547055;0.0382067536692988
+positive regulation of keratinocyte proliferation (GO:0010838);-1.841184313350202;0.035056280352784;;
+positive regulation of leukocyte migration (GO:0002687);;;-2.1036966777458983;0.0131278991151828
+positive regulation of mitotic cell cycle phase transition (GO:1901992);-1.8299333056557785;0.0387034078712819;;
+positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862);;;-1.9642468112829128;0.028925879406335
+positive regulation of protein kinase activity (GO:0045860);-1.8219762631970335;0.0416542008805859;;
+positive regulation of protein localization to Cajal body (GO:1904871);-1.976255408291479;0.0078465243544505;;
+positive regulation of protein localization to chromosome, telomeric region (GO:1904816);-2.0971252218211127;0.0014045211472786;;
+positive regulation of protein localization to nucleus (GO:1900182);-1.94120191044394;0.0124166467981644;;
+positive regulation of proteolysis involved in cellular protein catabolic process (GO:1903052);-1.8391423387016363;0.0352263309967399;;
+positive regulation of response to external stimulus (GO:0032103);;;-1.8922128186639533;0.0478616591746893
+positive regulation of telomerase RNA localization to Cajal body (GO:1904874);-2.0761445847770204;0.0017714681136848;;
+positive regulation of telomerase activity (GO:0051973);-1.8101052678563745;0.0454252967646791;;
+positive regulation of telomere maintenance via telomerase (GO:0032212);-1.9341179666867083;0.013308438093178;;
+positive regulation of telomere maintenance via telomere lengthening (GO:1904358);-1.839934424659376;0.0353666227780034;;
+positive regulation of toll-like receptor 3 signaling pathway (GO:0034141);-1.8513691463752493;0.0331611226094442;;
+positive regulation of toll-like receptor signaling pathway (GO:0034123);-1.9350457586267484;0.0133103757053324;;
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440);-1.817966375648406;0.0435401555656391;;
+positive regulation of unsaturated fatty acid biosynthetic process (GO:2001280);-1.8464990992987425;0.033372983038394;-1.903193067884373;0.0477859766016743
+pre-replicative complex assembly (GO:0036388);-2.2572347790581078;5.904893712282747e-05;;
+protein import into peroxisome matrix (GO:0016558);2.0568078465277724;0.0459841183506846;;
+protein localization to chromosome, centromeric region (GO:0071459);-2.307183952558009;0.0;;
+protein localization to condensed chromosome (GO:1903083);-2.1708882469990827;0.0002636840468071;;
+protein localization to kinetochore (GO:0034501);-2.279003600214777;3.212956872859731e-05;;
+protein peptidyl-prolyl isomerization (GO:0000413);-1.9448062044515175;0.0117652054770377;;
+protein targeting to ER (GO:0045047);-2.8310970682919314;0.0;;
+protein targeting to mitochondrion (GO:0006626);-1.859997030034009;0.0300838188447061;;
+protein-DNA complex assembly (GO:0065004);-1.9194576824904284;0.0157893030620516;;
+purine ribonucleoside monophosphate metabolic process (GO:0009167);;;-2.0461806151040074;0.0169661408056388
+rRNA metabolic process (GO:0016072);-2.761571548494132;0.0;;
+rRNA processing (GO:0006364);-2.7514161291373456;0.0;;
+regulation of DNA binding (GO:0051101);;;-1.8965683587886497;0.0490751030953632
+regulation of G2/M transition of mitotic cell cycle (GO:0010389);-2.337957870998061;0.0;;
+regulation of NMDA receptor activity (GO:2000310);2.1446244002169803;0.0224068067599699;;
+regulation of anoikis (GO:2000209);;;-2.032571886465499;0.0180389412781265
+regulation of cell cycle G2/M phase transition (GO:1902749);-2.028173433129372;0.0037510303732543;;
+regulation of cell cycle phase transition (GO:1901987);-2.1701838688863253;0.0002592148256747;;
+regulation of cell cycle process (GO:0010564);-2.016144786785065;0.004603708204969;;
+regulation of cell-cell adhesion (GO:0022407);;;-1.911566309242032;0.0453571481815312
+regulation of cellular amine metabolic process (GO:0033238);-2.2384261292142758;7.802895262659346e-05;;
+regulation of cellular amino acid metabolic process (GO:0006521);-2.204443424524061;0.0001470545645655;;
+regulation of cellular carbohydrate metabolic process (GO:0010675);2.0693450668914486;0.0416843046867245;;
+regulation of cellular extravasation (GO:0002691);;;-1.94880731821386;0.0312552470989125
+regulation of cellular ketone metabolic process (GO:0010565);-2.035389776415052;0.0033851078954302;;
+regulation of endothelial cell proliferation (GO:0001936);-1.7997961240731195;0.0499145207725193;;
+regulation of epidermis development (GO:0045682);-1.8226975777029824;0.0415545240606413;;
+regulation of establishment of protein localization to telomere (GO:0070203);-2.062981472111664;0.0021273156558197;;
+regulation of hematopoietic progenitor cell differentiation (GO:1901532);-1.9542898877619843;0.0104335856654987;;
+regulation of hematopoietic stem cell differentiation (GO:1902036);-1.8481612418264464;0.0333622184602579;;
+regulation of inflammatory response (GO:0050727);;;-2.0893981422048693;0.0150192066148278
+regulation of intracellular pH (GO:0051453);;;-1.9319895612312896;0.0375082831862366
+regulation of intrinsic apoptotic signaling pathway (GO:2001242);;;-2.1241599723154594;0.0133504058798469
+regulation of keratinocyte proliferation (GO:0010837);;;-1.8932736778571209;0.0489514882261054
+regulation of mRNA catabolic process (GO:0061013);-1.8379013474779404;0.0354920264518676;;
+regulation of mRNA stability (GO:0043488);-1.9606531589155007;0.0096361649706862;;
+regulation of mitotic cell cycle (GO:0007346);-2.2239770906287983;0.0001162133336991;;
+regulation of mitotic cell cycle phase transition (GO:1901990);-2.282367723792013;3.3103192023403286e-05;;
+regulation of mitotic cell cycle spindle assembly checkpoint (GO:0090266);-1.866704841394212;0.0277058077932567;;
+regulation of mitotic metaphase/anaphase transition (GO:0030071);-1.9553386434200648;0.0103947435653694;;
+regulation of mitotic nuclear division (GO:0007088);-1.949323964838383;0.0110785349304989;;
+regulation of monocyte chemotaxis (GO:0090025);-1.8169520848570648;0.0431674057919452;;
+regulation of neurotransmitter receptor activity (GO:0099601);2.130343673336159;0.0239421442652324;2.4980250218426043;0.0
+regulation of plasminogen activation (GO:0010755);;;-2.146333626026612;0.0300384132296556
+regulation of protein localization to Cajal body (GO:1904869);-1.976255408291479;0.0078465243544505;;
+regulation of stem cell differentiation (GO:2000736);-1.853311161528418;0.0324552791657849;;
+regulation of telomerase RNA localization to Cajal body (GO:1904872);-1.847553679909729;0.0331886887567586;;
+regulation of telomere maintenance via telomerase (GO:0032210);-1.893685599185429;0.0209891213424286;;
+regulation of toll-like receptor 3 signaling pathway (GO:0034139);-1.8147061715630424;0.0438473638948482;;
+regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418);-1.8095463905748488;0.0454480586146186;;
+regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618);-1.9210813282766832;0.0156714223546307;;
+regulation of transcription involved in G1/S transition of mitotic cell cycle (GO:0000083);;;-2.0459800505645225;0.0156610530513589
+regulation of ubiquitin-dependent protein catabolic process (GO:2000058);-1.828760193355206;0.0388708203607788;;
+regulation of vascular endothelial growth factor signaling pathway (GO:1900746);-1.8444276428552304;0.0338955556622613;-1.910509441995378;0.0449741798077343
+regulation of vesicle size (GO:0097494);-1.8395348384271304;0.0352959931226087;;
+regulation of water loss via skin (GO:0033561);-1.8904344667730784;0.0214900915410417;;
+regulation of wound healing (GO:0061041);-2.2429565552012654;7.993209781260793e-05;-1.9680830845733608;0.0282840329698039
+rhodopsin mediated signaling pathway (GO:0016056);2.3278195458099558;0.0018393647340273;;
+ribonucleoprotein complex assembly (GO:0022618);-2.4102605675242077;0.0;;
+ribonucleoprotein complex biogenesis (GO:0022613);-2.482285313773376;0.0;;
+ribosomal large subunit assembly (GO:0000027);-2.185249053562396;0.0002267256359338;;
+ribosomal large subunit biogenesis (GO:0042273);-2.619142765607807;0.0;;
+ribosomal large subunit export from nucleus (GO:0000055);-1.8479916399624197;0.0332312869838416;;
+ribosomal small subunit assembly (GO:0000028);-1.9576978506152625;0.0101047493651438;;
+ribosomal small subunit biogenesis (GO:0042274);-2.2527504409070795;5.602078650114402e-05;;
+ribosomal subunit export from nucleus (GO:0000054);-1.9016045574919391;0.0192548314577171;;
+ribosome assembly (GO:0042255);-2.43505808241519;0.0;;
+ribosome biogenesis (GO:0042254);-2.7645658844445853;0.0;;
+sensory perception of light stimulus (GO:0050953);2.126503716552233;0.0229920591753423;;
+sister chromatid segregation (GO:0000819);-2.179757187082316;0.0002340868578797;;
+skin development (GO:0043588);-2.0797898044130263;0.0017508414301693;;
+spindle assembly checkpoint signaling (GO:0071173);-2.129033945076772;0.0007663141914671;;
+spliceosomal snRNP assembly (GO:0000387);-1.9189362847083904;0.0158348663495435;;
+synaptic vesicle exocytosis (GO:0016079);2.110893304147302;0.0260469481566815;;
+tRNA export from nucleus (GO:0006409);-1.88962222934599;0.0211944543618037;;
+tRNA transport (GO:0051031);-1.97807414277072;0.0078028952626593;-1.8971787681631;0.0498111734532168
+tRNA-containing ribonucleoprotein complex export from nucleus (GO:0071431);-1.88962222934599;0.0211944543618037;;
+translation (GO:0006412);-2.579978897933369;0.0;;
+translational elongation (GO:0006414);-2.252938320313228;5.749501772485833e-05;;
+translational termination (GO:0006415);-2.3619078747193627;0.0;;
+visual perception (GO:0007601);2.270629986585776;0.0050164492746201;;
