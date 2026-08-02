@@ -1,0 +1,9 @@
+subgroup;db;n_significant;top_term;top_NES;top_FDR
+Female_Healthy;GO_BP;173;Mitotic Sister Chromatid Segregation (GO:0000070);-3.136058471236274;0.0
+Female_Healthy;KEGG;40;RIBOSOME;-2.8335865273303398;0.0
+Female_Mutant;GO_BP;44;Cytoplasmic Translation (GO:0002181);-3.45135132614414;0.0
+Female_Mutant;KEGG;17;RIBOSOME;-3.215599092854452;0.0
+Male_Healthy;GO_BP;68;DNA Replication (GO:0006260);-2.592429152425132;0.0
+Male_Healthy;KEGG;21;DNA REPLICATION;-2.5355662128017586;0.0
+Male_Mutant;GO_BP;77;Cytoplasmic Translation (GO:0002181);-3.245631720150805;0.0
+Male_Mutant;KEGG;33;RIBOSOME;-3.241181061065704;0.0
